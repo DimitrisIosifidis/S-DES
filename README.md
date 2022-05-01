@@ -1,7 +1,7 @@
 # S-DES
 Simplified Data Encryption Standard (S-DES)
 
-This project was done in the Computer and Network Security course.
+This project was done in the course of Computer and Network Security.
 The project was to write an algorithm for Simplified Data Encryption Standard following some specific guidelines as shown below.
 
 Guidlines
@@ -20,3 +20,6 @@ Bruteforce Attack:
 Insert an original message (8-bit) and an encrypted message (8-bit) from the user in either binary or decimal format.
 Bruteforce attack to the encryption key and display it (10-bit). If there is more than one encryption key, display all of them.
 Extraction of the average time of successful search in N attempts, N > 10
+
+
+The program was written in Python.
