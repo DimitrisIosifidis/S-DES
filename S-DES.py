@@ -7,7 +7,7 @@
 ###         that is compatible to decrypt the cipher text ----###
 ###         4) example option that does all the above --------###
 ### ----------------------------------------------------------###
-### ---This program was written by Iosifidis Dimitrios 1336---###   
+### ---This program was written by Iosifidis Dimitrios -------###   
 #################################################################
 
 import random
