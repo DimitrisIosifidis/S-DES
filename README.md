@@ -19,6 +19,6 @@ Decrypting the cipher and displaying the plain message (8-bit) in either binary 
 Bruteforce Attack:
 Insert an original message (8-bit) and an encrypted message (8-bit) from the user in either binary or decimal format.
 Bruteforce attack to the encryption key and display it (10-bit). If there is more than one encryption key, display all of them.
-Extraction of the average time of successful search in N attempts, N > 10
+Extraction of the average time of successful search in N attempts, N>10.
 
 The program was written in Python.
